@@ -1,0 +1,17 @@
+{
+    "name": "siddik-web/php-array",
+    "description": "PHP array functions examples.",
+    "autoload": {
+        "psr-4": {
+            "SiddikWeb\\PhpArray\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Md Siddiqur Rahman",
+            "email": "siddikcoder@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
