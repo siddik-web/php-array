@@ -1,12 +1,9 @@
 <?php 
+namespace App;
 /**
  *  ArrayHelper Class
  *  This is the Class for how array functions are working.
  */
-namespace App;
-/**
-  * Undocumented class
-  */
 class ArrayHelper
 {
     /**
